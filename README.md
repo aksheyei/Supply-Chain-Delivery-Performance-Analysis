@@ -82,10 +82,13 @@ FreshKart Supply Chain Pvt Ltd is facing poor delivery performance, resulting in
 
 ---
 
-## 🛠 Tech Stack
+🛠 Tech Stack
 
-- 📊 Excel  
-- 📈 Power BI  
+📊 Excel
+
+📈 Power BI
+
+🗄️ SQL
 
 ---
 
