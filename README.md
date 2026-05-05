@@ -77,7 +77,7 @@ FreshKart Supply Chain Pvt Ltd is facing poor delivery performance, resulting in
 ## 📊 Dashboard Preview
 
 <p align="center">
-  <img src="overview.png" width="800"/>
+  <img src="Operation summary.png" width="800"/>
 </p>
 
 ---
