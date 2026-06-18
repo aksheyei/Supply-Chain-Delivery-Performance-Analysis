@@ -46,15 +46,3 @@ By addressing last-mile logistics delays and inventory shortages through data-dr
 
 
 
-
-
-
- 
-
-## 📊 Dashboard Preview
-
-<p align="center">
-  <img src="Operation summary.png" width="800"/>
-</p>
-
-
