@@ -31,8 +31,10 @@ FreshKart is facing poor delivery performance, leading to low customer satisfact
 
 ## 📊 Dashboard Preview
 
+## Operation Summary
+
 <p align="center">
-  <img src="Operation summary.png" width="800"/>
+  <img src="Operation%20summary.png" alt="Operation Summary Dashboard" width="900">
 </p>
 
 ### **5. Actionable Recommendations**
